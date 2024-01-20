@@ -1,2 +1,2 @@
-# Data-homework
-used to restore Data science homework
+# 胡少琰 10225501417
+每一周的作业在对应的week文件夹下，期末大作业在final文件夹下
